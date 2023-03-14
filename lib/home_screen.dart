@@ -35,7 +35,7 @@ class _HomeScreenState extends State<HomeScreen> {
                               TextField(
                                 controller: titlecontroller,
                                 decoration: InputDecoration(
-                                    hintText: 'enter text Title',
+                                    hintText: 'enter text Title ....',
                                     hintStyle: TextStyle(
                                         color: Colors.green.withOpacity(0.5))),
                               ),
